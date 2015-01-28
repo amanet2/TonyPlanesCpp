@@ -1,0 +1,6 @@
+#ifndef PROPPLANEPROPERTIES_H_INCLUDED
+#define PROPPLANEPROPERTIES_H_INCLUDED	
+
+	double propellorDiameter();
+
+#endif /* PROPPLANEPROPERTIES_H */

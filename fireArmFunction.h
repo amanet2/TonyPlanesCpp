@@ -1,0 +1,3 @@
+	double fire();
+	void reload();
+
